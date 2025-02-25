@@ -83,9 +83,6 @@ The primary goal of this project is to serve as a foundation for a full-fledged 
 ## 💡 Contributing
 Feel free to submit pull requests to improve the platform! 🛠️🔥
 
-## 📄 License
-MIT License. Free to use and modify.
-
 ---
 
 Happy Coding! 🚀👨‍💻
